@@ -60,11 +60,6 @@ Grainsafe is a mobile application built using Flutter and the Gemini API designe
 
 
 
-## Video Demo
-
-[Watch Video](https://www.example.com/demo-video)
-
-
 ## Contributing
 
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
@@ -101,7 +96,7 @@ You can customize this database to include your own ingredients and their respec
 
 ## GitHub Repository
 
-[Flutter-Ingredient Analysis Repository](<GitHub Repository URL>)
+[Flutter-Ingredient Analysis Repository](https://github.com/prdalai/ingrain-food-ai/)
 
 
 ## Hashtags
