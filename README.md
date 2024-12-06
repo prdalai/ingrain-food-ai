@@ -1,4 +1,5 @@
 # Building an Ingredient Analysis App with Flutter and Google Generative AI: A Complete Guide
+![Screenshot 1](https://files.oaiusercontent.com/file-F9MNAxRDGYBspLzKLUYH3n?se=2024-12-06T10%3A09%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D15ae6dcb-9b47-4ecd-b2fe-8b3b76555a3d.webp&sig=42nngcnsd/WlxKpF2UZhKpT5C8Xu8LTOaI37cQwXpkI%3D)
 
 ## Introduction
 
