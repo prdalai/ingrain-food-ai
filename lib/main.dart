@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-const String _apiKey = 'AIzaSyC2QS63V0V6VyrqUwZMx4brfZHtJlFzmgc';
+const String _apiKey = 'Secret API key';
 
 void main() {
   runApp(const GenerativeAISample());
